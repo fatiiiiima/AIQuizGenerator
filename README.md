@@ -12,7 +12,6 @@ How to Use
 1. Clone the Repository: 
    
    git clone https://github.com/fatiiiiima/AIQuizGenerator.git
-   cd interactive-quiz-app
     
 
 2. Run the Application:
