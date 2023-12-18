@@ -1,6 +1,8 @@
 # AIQuizGenerator
 Submitted to PWC's Internship assessment. 
 
+Please check the master branch for the code.
+
 Interactive Quiz Application with Streamlit
 
 Overview
