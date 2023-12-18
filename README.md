@@ -11,21 +11,16 @@ How to Use
 
 1. Clone the Repository: 
    
-   git clone https://github.com/your-username/interactive-quiz-app.git
+   git clone https://github.com/fatiiiiima/AIQuizGenerator.git
    cd interactive-quiz-app
-   
+    
 
-2. Install Dependencies:
-   
-   pip install -r requirements.txt
-   
-
-3. Run the Application:
+2. Run the Application:
    
    streamlit run app.py
    
 
-4. Interact with the Quiz:
+3. Interact with the Quiz:
    - Enter text for quiz generation.
    - Adjust the number of questions, enter the quiz subject, and select the quiz tone.
    - Click "Generate Quiz" to create the quiz.
